@@ -13,19 +13,8 @@ npm install ciiu-arl
 ### Import the JSON data
 
 ```js
-import riskClassification from "ciiu-arl/risk-classification.json" with { type: "json" };
+import {riskClassification, type RiskClassification} from "ciiu-arl";
 ```
-
-### Import the TypeScript types
-
-```ts
-import type { RiskClassification } from "ciiu-arl/types";
-```
-
-## Files exported
-
-- `risk-classification.json`: The risk classification dataset
-- `types.ts`: TypeScript types for the dataset
 
 ## License
 
