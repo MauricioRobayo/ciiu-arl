@@ -2,14 +2,15 @@
   "name": "ciiu-arl",
   "version": "1.0.3",
   "description": "Exports risk-classification.json as a package.",
-  "main": "risk-classification.json",
   "scripts": {
     "build": "node risk-classification.ts"
   },
   "files": [
-    "risk-classification.json",
-    "types.ts"
+    "index.js",
+    "index.d.ts"
   ],
+  "types": "index.d.ts",
+  "main": "index.js",
   "keywords": [
     "ciiu",
     "arl",
