@@ -37,9 +37,12 @@ async function scrapeRiskTable(): Promise<RiskClassification[]> {
           cells.push($(cell).text().trim());
         });
       if (cells.length > 0) {
+        const ciiuCode = Number.parseInt(cells.at(1) ?? "", 10);
         const risk: RiskClassification = {
           risk: cells.at(0) ?? "",
-          ciiu: cells.at(1) ?? "",
+          ciiu: Number.isNaN(ciiuCode)
+            ? ""
+            : ciiuCode.toString().padStart(4, "0"),
           code: cells.at(2) ?? "",
           description: cells.at(3) ?? "",
         };

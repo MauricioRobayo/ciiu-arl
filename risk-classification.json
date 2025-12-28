@@ -97,7 +97,7 @@
   },
   {
     "risk": "3",
-    "ciiu": "0125\n(ver ejemplo)",
+    "ciiu": "0125",
     "code": "01",
     "description": "Cultivo de flor de corte incluye el cultivo de especies de flor de corte en invernaderos con estructura de madera o metálica cubierta de plástico, o cualquier otra forma de cultivo y sus sistemas de riego, cultivo de floricultura y de plantas que dan flores y capullos."
   },
@@ -193,7 +193,7 @@
   },
   {
     "risk": "2",
-    "ciiu": "0144\n(ver ejemplo)",
+    "ciiu": "0144",
     "code": "01",
     "description": "Cría de ganado porcino, incluye la cría, reproducción y engorde de ganado porcino (cerdos)."
   },
@@ -667,7 +667,7 @@
   },
   {
     "risk": "5",
-    "ciiu": "0820\n(ver ejemplo)",
+    "ciiu": "0820",
     "code": "01",
     "description": "Extracción de esmeraldas, piedras preciosas y semipreciosas, incluye la extracción todas las variedades de esmeraldas en bruto, sin trabajar: simplemente hendidas o desbastadas, extracción de otras piedras preciosas (diamante, rubí, zafiro, entre otras) y semipreciosas en bruto, sin trabajar: simplemente hendidas o desbastadas"
   },
@@ -4519,31 +4519,31 @@
   },
   {
     "risk": "1",
-    "ciiu": "4752\n(ver ejemplo)",
+    "ciiu": "4752",
     "code": "01",
     "description": "Comercio al por menor de artículos de ferretería, pinturas, barnices, lacas, vinilos, masillas, esmaltes, pigmentos y productos de vidrio en establecimientos especializados, incluye material y equipo de bricolaje o maquinaria ligera e implementos para industria en general."
   },
   {
     "risk": "1",
-    "ciiu": "4752\n(ver ejemplo)",
+    "ciiu": "4752",
     "code": "02",
     "description": "Comercio al por menor de artículos de ferretería, pinturas, barnices, lacas, vinilos, masillas, esmaltes, pigmentos y productos de vidrio en establecimientos especializados, incluye comercio al por menor de pinturas,"
   },
   {
     "risk": "2",
-    "ciiu": "4752\n(ver ejemplo)",
+    "ciiu": "4752",
     "code": "01",
     "description": "Comercio al por menor de artículos de ferretería, pinturas y productos de vidrio en establecimientos especializados, incluye venta de artículos de ferretería (incluidos artículos eléctricos), solventes, materiales de construcción, baldosas de corcho para pisos y vidrio plano, enmarcación de cuadros o marqueterías y otros, sin autotransporte."
   },
   {
     "risk": "3",
-    "ciiu": "4752\n(ver ejemplo)",
+    "ciiu": "4752",
     "code": "01",
     "description": "Comercio al por menor de artículos de ferretería, pinturas y productos de vidrio en establecimientos especializados, incluye solamente venta de hierro, sin auto transporte."
   },
   {
     "risk": "4",
-    "ciiu": "4752\n(ver ejemplo)",
+    "ciiu": "4752",
     "code": "01",
     "description": "Comercio al por menor de artículos de ferretería, pinturas y productos de vidrio en establecimientos especializados, incluye venta de artículos de ferretería (incluidos artículos eléctricos), solventes, removedores de pintura, materiales de construcción, vidrio plano, con autotransporte."
   },
@@ -5473,7 +5473,7 @@
   },
   {
     "risk": "1",
-    "ciiu": "7020\n(ver ejemplo)",
+    "ciiu": "7020",
     "code": "01",
     "description": "Actividades de consultoría de gestión, incluye asesoría, orientación y asistencia operacional a empresas y otras organizaciones sobre cuestiones de gestión, como la planificación estratégica y organizacional; temas de decisión de carácter financiero; objetivos y políticas de comercialización; planificación de la producción; políticas, prácticas y planificación de derechos humanos. Asesoramiento, orientación y asistencia operativa a las empresas y a la administración pública en materia de: relaciones públicas y comunicaciones, actividades de lobby, procedimientos contables, programas de contabilidad de costos, procedimientos de control presupuestario. Las zonas francas, es decir, las unidades económicas que se dedican a la promoción, creación, desarrollo y administración del proceso de industrialización de bienes y la prestación de servicios destinados prioritariamente a los mercados externos."
   },
@@ -6115,7 +6115,7 @@
   },
   {
     "risk": "1",
-    "ciiu": "8544\n(ver ejemplo)",
+    "ciiu": "8544",
     "code": "01",
     "description": "Educación de universidades, incluye la enseñanza que ofrece fundamentación teórica y metodológica de una profesión y una amplia formación para la dirección, el diseño y la gestión; La formación en instituciones legalmente reconocidas para desarrollar programas en el campo de investigación científica, producción, desarrollo y transmisión del conocimiento y de la cultura. Debido a su carácter investigativo, este tipo de instituciones son las únicas autorizadas para ofrecer todos los niveles de formación: técnico profesional, tecnológico, profesional, especialización, maestría y doctorado."
   },
@@ -6181,13 +6181,13 @@
   },
   {
     "risk": "2",
-    "ciiu": "8622\n(ver ejemplo)",
+    "ciiu": "8622",
     "code": "01",
     "description": "Actividades de la práctica odontológica, incluye las actividades de consulta y tratamiento de tipo general o especializado realizadas por odontólogos, en cualquier fase de la atención (promoción, prevención, diagnóstico, tratamiento y rehabilitación), en las áreas de endodoncia, odontología pediátrica, patología oral, maxilofacial, periodoncia, prostodoncia y ortodoncia."
   },
   {
     "risk": "2",
-    "ciiu": "8622\n(ver ejemplo)",
+    "ciiu": "8622",
     "code": "02",
     "description": "Actividades de la práctica odontológica, incluye la práctica odontológica realizada a pacientes externos o ambulatorios en consultorios privados, centros médicos, puestos de salud, clínicas asociadas con empresas, escuelas, hogares para ancianos, organizaciones sindicales y asociaciones profesionales, así como en el domicilio de los pacientes."
   },
@@ -6343,7 +6343,7 @@
   },
   {
     "risk": "1",
-    "ciiu": "9200\n(ver ejemplo)",
+    "ciiu": "9200",
     "code": "01",
     "description": "Actividades de juegos de azar y apuestas, incluye las actividades de organización y prestación de los servicios de juegos de azar y apuestas, incluidos los servicios conexos de distribución: venta de billetes de lotería o de rifas, apuestas permanentes o chance, funcionamiento (explotación) de máquinas de juegos de azar accionados en moneda, apuestas sobre carreras de caballos en el propio hipódromo y otros servicios de apuestas, apuestas en líneas, bingos; La operación de casinos, incluyendo «casinos flotantes»; el funcionamiento de sitios web de juegos de azar virtuales; El funcionamiento de lotería impresa, lotería instantánea y lotería en línea; El funcionamiento (explotación) de juegos localizados tales como bingos, video bingos y esferódromos; La venta de boletas para rifas."
   },
