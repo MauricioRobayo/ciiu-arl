@@ -1,5 +1,5 @@
 {
-  "name": "risk-classification",
+  "name": "ciiu-arl",
   "version": "1.0.0",
   "description": "Exports risk-classification.json as a package.",
   "main": "risk-classification.json",
