@@ -1,6 +1,6 @@
 {
   "name": "ciiu-arl",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Exports risk-classification.json as a package.",
   "scripts": {
     "build": "node risk-classification.ts"
